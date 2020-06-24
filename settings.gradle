@@ -1,0 +1,2 @@
+rootProject.name='Cyc'
+include ':app'

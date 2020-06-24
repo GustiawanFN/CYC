@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Cyc</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="all">All</string>
+    <string name="personal">Personal</string>
+    <string name="cruch_club">Chruch Club</string>
+    <string name="national">National / Regonal</string>
+</resources>
